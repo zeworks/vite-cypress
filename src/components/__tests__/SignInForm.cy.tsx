@@ -1,5 +1,5 @@
 import React from 'react'
-import { SignInForm } from './SignInForm'
+import { SignInForm } from '../SignInForm'
 
 const email = "test@example.com"
 const password = "password"
